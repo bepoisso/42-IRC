@@ -1,0 +1,10 @@
+*.o
+*test*
+*.me
+*temp*
+.vscode
+*.out
+exec
+ircserv
+logs
+*.txt
