@@ -2,7 +2,7 @@
   <img height="200" src="https://raw.githubusercontent.com/Benjamin-poisson/My_image_bank/refs/heads/main/irc.png"  />
 </div>
 
-# ft_irc - Communication IRC
+# ft_irc - IRC communication
 
 `ft_irc` is a custom implementation of an IRC (Internet Relay Chat) server written in C++.  
 The goal of this project was to understand and implement network programming concepts such as sockets, communication protocols, and concurrency, while respecting the IRC specifications (RFC 1459 and related updates).  
